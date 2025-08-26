@@ -84,16 +84,12 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。 
-    - term: PT下载
+    - term: Docker应用
       links:
-        - title: M-Team
-          logo: M-Team.png
-          url: https://kp.m-team.cc/index
-          description:
-        - title: PTTime
-          logo: PTTime.ico
-          url: https://www.pttime.org/index.php
-          description:                     
+        - title: Openlist.svg
+          logo: openlist.svg
+          url: https://openlist.996521.xyz/
+          description:                  
     - term: 在线工具
       links:
         - title: AI-deepseek
@@ -132,6 +128,16 @@
           logo: faviconextractor.ico
           url: https://www.faviconextractor.com/
           description: 网站图标下载                
+    - term: PT下载
+      links:
+        - title: M-Team
+          logo: M-Team.png
+          url: https://kp.m-team.cc/index
+          description:
+        - title: PTTime
+          logo: PTTime.ico
+          url: https://www.pttime.org/index.php
+          description:   
     - term: 博客
       links:
         - title: semyes
