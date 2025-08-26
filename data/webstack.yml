@@ -151,3 +151,21 @@
           logo: 博客2.png
           url: https://blog.laoda.de/
           description:           
+    - term: Github库
+      links:
+        - title: EasyImage2.0 简单图床
+          logo: github.png
+          url: https://github.com/icret/EasyImages2.0
+          description:  
+        - title: v2ray-agent
+          logo: github.png
+          url: https://github.com/icret/EasyImages2.0
+          description: Xray-core/sing-box 一键脚本快速安装         
+        - title: one_click_script
+          logo: github.png
+          url: https://github.com/jinwyp/one_click_script/blob/master/README2_CN.md
+          description:            
+        - title: tabby
+          logo: github.png
+          url: https://github.com/Eugeny/tabby
+          description:           
