@@ -35,7 +35,37 @@
           logo: nga.webp
           url: https://nga.178.com/
           description: 
-        - title: 
-          logo: 
-          url: 
+        - title: 微博
+          logo: 微博.png
+          url: https://weibo.com/
           description: 
+        - title: NodeSeek
+          logo: NodeSeek.png
+          url: https://www.nodeseek.com/
+          description: 
+    - term: 云服务器
+      links:
+        - title: 搬瓦工
+          logo: BandwagonHost.jpg
+          url: https://bwh81.net/clientarea.php
+          description:           
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: 腾讯云.webp
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。 
+        - title: RackNerd
+          logo: racknerd.jpg
+          url: https://www.racknerd.com/
+          description:                     
+        - title: wap.cc
+          logo: wap.ico
+          url: https://wap.ac/
+          description:           
