@@ -43,6 +43,14 @@
           logo: NodeSeek.png
           url: https://www.nodeseek.com/
           description: 
+        - title: 小黑盒
+          logo: 小黑盒.png
+          url: https://www.xiaoheihe.cn/app/bbs/home
+          description:    
+        - title: Youtube
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description:                     
     - term: 云服务器
       links:
         - title: 搬瓦工
@@ -112,7 +120,11 @@
         - title: Greasy Fork
           logo: ITDog.png
           url: https://greasyfork.org/zh-CN/
-          description:            
+          description:         
+        - title: faviconextractor
+          logo: faviconextractor.ico
+          url: https://www.faviconextractor.com/
+          description: 网站图标下载                
     - term: 博客
       links:
         - title: semyes
