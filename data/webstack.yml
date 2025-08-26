@@ -48,7 +48,15 @@
         - title: 搬瓦工
           logo: BandwagonHost.jpg
           url: https://bwh81.net/clientarea.php
-          description:           
+          description:
+        - title: RackNerd
+          logo: racknerd.jpg
+          url: https://www.racknerd.com/
+          description:                     
+        - title: wap.cc
+          logo: wap.ico
+          url: https://wap.ac/
+          description:                       
         - title: 阿里云
           logo: 阿里云.jpg
           url: https://www.aliyun.com/
@@ -61,11 +69,53 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。 
-        - title: RackNerd
-          logo: racknerd.jpg
-          url: https://www.racknerd.com/
+    - term: PT下载
+      links:
+        - title: M-Team
+          logo: M-Team.png
+          url: https://kp.m-team.cc/index
+          description:
+        - title: PTTime
+          logo: PTTime.ico
+          url: https://www.pttime.org/index.php
           description:                     
-        - title: wap.cc
-          logo: wap.ico
-          url: https://wap.ac/
-          description:           
+    - term: 在线工具
+      links:
+        - title: AI-deepseek
+          logo: AI.jpeg
+          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
+          description:
+        - title: 老汪头
+          logo: github.png
+          url: https://v1.996521.xyz:2206/GWF6ax25311UU2w/
+          description:   
+        - title: Cloudflare
+          logo: cloudflare.png
+          url: https://dash.cloudflare.com/
+          description: 
+        - title: Javbus
+          logo: javbus.png
+          url: https://www.javbus.com/
+          description:      
+        - title: IPv6 连接测试
+          logo: IPv6 连接测试.png
+          url: https://www.test-ipv6.com/
+          description:                   
+        - title: ITDog
+          logo: ITDog.png
+          url: https://www.itdog.cn/
+          description:        
+        - title: tld-list
+          logo: tld-list.ico
+          url: https://zh-hans.tld-list.com/
+          description:                              
+        - title: Greasy Fork
+          logo: ITDog.png
+          url: https://greasyfork.org/zh-CN/
+          description:            
+    - term: 在线工具
+      links:
+        - title: AI-deepseek
+          logo: AI.jpeg
+          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
+          description:          
