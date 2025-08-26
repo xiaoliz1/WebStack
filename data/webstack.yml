@@ -113,9 +113,25 @@
           logo: ITDog.png
           url: https://greasyfork.org/zh-CN/
           description:            
-    - term: 在线工具
+    - term: 博客
       links:
-        - title: AI-deepseek
-          logo: AI.jpeg
-          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
+        - title: semyes
+          logo: 博客2.png
+          url: https://blog.196000.xyz/
           description:          
+        - title: Mereith Blog
+          logo: 博客2.png
+          url: https://www.mereith.com/
+          description:      
+        - title: 科技lion官方博客
+          logo: 博客2.png
+          url: https://blog.kejilion.pro/
+          description:     
+        - title: mack
+          logo: 博客2.png
+          url: https://www.v2ray-agent.com/
+          description:                              
+        - title: 我不是咕咕鸽
+          logo: 博客2.png
+          url: https://blog.laoda.de/
+          description:           
