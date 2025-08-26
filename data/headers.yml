@@ -10,7 +10,5 @@
   icon: fa fa-cog
   link: ""
   list:
-    - name: 教程
-      url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
     - name: 源码
-      url: https://github.com/shenweiyan/WebStack-Demo
+      url: https://github.com/xiaoliz1/WebStack
