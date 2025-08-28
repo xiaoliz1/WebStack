@@ -25,3 +25,4 @@
 5. 导航的各个信息都集成在 data/webstack.yml 文件中  
     图标在themes/WebStack-Hugo/static/assets/images/logos 文件中 
 6.保存部署    
+完成
