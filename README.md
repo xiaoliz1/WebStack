@@ -9,9 +9,6 @@
 - 站点：<https://shenweiyan.github.io/WebStack-Demo/>
 - 源码：<https://github.com/shenweiyan/WebStack-Demo>
 
-git add.
-git commit -m "a7"
-git push origin main
 ## 特色功能
 
 这是 Hugo 版 WebStack 主题。可以借助下面的平台直接托管部署，无需服务器。
@@ -28,3 +25,7 @@ git push origin main
     图标在themes/WebStack-Hugo/static/assets/images/logos 文件中 
 6.保存部署    
 完成
+推送
+git add -A
+git commit -m "a11"
+git push --force origin main
