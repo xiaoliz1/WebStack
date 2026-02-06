@@ -92,10 +92,10 @@
           description:                  
     - term: 在线工具
       links:
-        - title: AI-deepseek
-          logo: AI.jpeg
-          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
-          description:
+        - title: Wallos-服务器订阅
+          logo: wallos.png
+          url: https://wallos.996521.xyz/
+          description: 续费
         - title: 老汪头
           logo: github.png
           url: https://v1.996521.xyz:2206/GWF6ax25311UU2w/
